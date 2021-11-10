@@ -1,5 +1,5 @@
-# WSIHistPathAnalysis
-An Accurate and Unbiased Immunostaining Whole Slide Image Analysis Pipeline 
+# PSIA
+An Accurate and Unbiased Pathology Immunostaining Whole Slide Image Analysis Pipeline 
 
 ### Prerequisites & Installation Requirements
 
