@@ -19,3 +19,7 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 * imagemagick
   * For Linux users, use ``` sudo apt update && sudo apt install imagemagick ``` 
   * For Mac users, you may need to run ```conda install -c conda-forge imagemagick ```
+
+### fileProcess.py
+### WSI_to_ROIs.py
+### ROI_preprocess.py
