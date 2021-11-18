@@ -28,4 +28,3 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 * matplotlib
 ### 1. fileProcess.py
 ### 2. WSI_to_ROIs.py
-### 3. ROI_preprocess.py
