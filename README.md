@@ -14,6 +14,7 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
   ``` conda install opencv-python```
   * openslide library
   ``` pip install openslide-python ```
+   * For Windows users, please download and extract the most recent stable openslide binary into your workspace directory, and change line 12 of ```WSI_to_ROIs.py``` to rename the directory name. 
   * lxml
   ``` pip install lxml-4.6.3 ```
 * imagemagick
