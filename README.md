@@ -16,11 +16,16 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
   ``` pip install openslide-python ```
       * For Windows users, please download and extract the most recent stable openslide binary into your workspace directory, and change line 12 of ```WSI_to_ROIs.py``` to rename the directory name. 
   * lxml
-  ``` pip install lxml-4.6.3 ```
+  ``` pip install lxml ```
 * imagemagick
   * For Linux users, use ``` sudo apt update && sudo apt install imagemagick ``` 
   * For Mac users, you may need to run ```conda install -c conda-forge imagemagick ```
-
+* sckit-image
+``` pip install sckit-image ```
+* os
+* numpy
+* string
+* matplotlib
 ### 1. fileProcess.py
 ### 2. WSI_to_ROIs.py
 ### 3. ROI_preprocess.py
