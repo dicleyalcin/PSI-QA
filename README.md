@@ -26,5 +26,10 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 * numpy
 * string
 * matplotlib
-### 1. fileProcess.py
-### 2. WSI_to_ROIs.py
+#### 1. fileProcess.py
+#### 2. WSI_to_ROIs.py
+
+### Color dictionary provided to users
+
+![User Color Dictionary](https://github.com/dicleyalcin/color_dictionary_image.tif)
+
