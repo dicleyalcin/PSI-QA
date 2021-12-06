@@ -1,4 +1,4 @@
-# PSIA
+# PSI-QA
 An Accurate and Unbiased Pathology Immunostaining Whole Slide Image Analysis Pipeline 
 
 ### Prerequisites & Installation Requirements
@@ -31,5 +31,4 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 
 ### Color dictionary provided to users
 
-<img src="docs/color_dictionary_image.tif" alt="Color dictionary for Motic users"/>
-
+<img src="docs/color_dictionary_image.png" style="width: 15%; height: 15%;" alt="Color dictionary for Motic users"/>
