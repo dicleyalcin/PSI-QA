@@ -31,5 +31,5 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 
 ### Color dictionary provided to users
 
-![User Color Dictionary](https://github.com/dicleyalcin/PSI-QA/blob/main/color_dictionary_image.tif)
+<img src="docs/color_dictionary_image.tif" alt="Color dictionary for Motic users"/>
 
