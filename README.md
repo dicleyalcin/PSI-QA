@@ -31,5 +31,5 @@ You can use ``` pip install -r requirements.txt ``` to install all the Python li
 
 ### Color dictionary provided to users
 
-![User Color Dictionary](https://github.com/dicleyalcin/color_dictionary_image.tif)
+![User Color Dictionary](https://github.com/dicleyalcin/PSI-QA/color_dictionary_image.tif)
 
