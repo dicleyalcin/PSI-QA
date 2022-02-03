@@ -14,8 +14,8 @@ Pipeline run and tested on a Linux (Ubuntu) machine using Python 3.6.13
       * For Windows users, please download and extract the most recent stable openslide binary into your workspace directory, and change line 12 of ```WSI_to_ROIs.py``` to rename the directory name. 
   * lxml
   ``` pip install lxml ```
-* sckit-image
-``` pip install sckit-image ```
+* scikit-image
+``` pip install scikit-image ```
 * numpy
 * matplotlib
 ``` pip install matplotlib ```
