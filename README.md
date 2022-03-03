@@ -28,3 +28,8 @@ Pipeline run and tested on a Linux (Ubuntu) machine using Python 3.6.13
 
 ### Color dictionary provided to users
 <img src="docs/color_dictionary_image.png" style="width: 15%; height: 15%;" alt="Color dictionary for Motic users"/>
+
+### Obtaining NormRGBHist.m
+Stain Normalisation Toolbox (V2.2) by Tissue Image Analytics (TIA) Centre at the University of Warwick
+https://warwick.ac.uk/fac/cross_fac/tia/software/sntoolbox/ 
+Should be unzipped and placed under the working MATLAB directory
